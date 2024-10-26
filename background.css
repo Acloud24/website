@@ -1,0 +1,88 @@
+/*For my first article*/
+
+
+
+article{
+
+
+    font-size: large;
+    font-weight:bolder;
+
+
+    margin: 5px 0px;
+    padding: 5px;
+    
+    border: 5px solid black;
+
+
+    overflow: hidden;
+    background-color: black;
+    background: gray
+    
+    
+    
+}
+
+
+
+
+.box{
+
+    float: right;
+    font-size: larger;
+
+   
+    background-position: center;
+    background: gray;
+
+    
+    
+
+    margin: 5px 5px;
+    
+
+    height: 400px !important;
+    width: 350px !important;
+
+    border: 5px solid black;
+
+    background: url(assets/IMG_0524.jpg);
+    background-size: cover;
+    background-position: no-repeat;
+
+    box-sizing: content-box;
+
+}
+
+header {
+    
+    text-align: center;
+    padding: 5px;
+
+    border: 5px solid black;
+    background-color: gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+
+
+.art2{
+
+    font-size: large;
+    font-weight: bold;
+
+    margin: 5px 0px;
+    padding: 5px;
+
+    border: 5px solid black;
+
+
+    overflow:visible;
+    background-color: blue;
+    background: gray
+    
+
+}
